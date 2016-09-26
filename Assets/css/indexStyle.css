@@ -12,6 +12,7 @@
 .mainContainer li{
   list-style-type: none;
   text-align: left;
+  margin: 0 auto;
 }
 .navBar{
   background-color: #222;
