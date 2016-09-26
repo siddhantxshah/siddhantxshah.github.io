@@ -5,7 +5,7 @@ uiApp.config(function($routeProvider){
   .when("/content",{
       templateUrl: 'Views/ContentView/ContentView.html'
   })
-  .otherwise('/');
+  .otherwise('/content');
 
 
 });
