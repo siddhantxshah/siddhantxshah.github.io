@@ -12,6 +12,9 @@
 .mainContainer li{
   list-style-type: none;
   text-align: left;
+
+}
+.panel-body{
   margin: 0 auto;
 }
 .navBar{
